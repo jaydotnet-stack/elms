@@ -6,7 +6,6 @@ spark
 
 # Composer dependencies
 vendor/
-composer.lock
 
 # IDE and editor files
 .vscode/
