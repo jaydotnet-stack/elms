@@ -1,11 +1,3 @@
-# CodeIgniter 4 specific
-writable/
-.env
-env
-spark
-
-# Composer dependencies
-vendor/
 
 # IDE and editor files
 .vscode/
@@ -38,25 +30,16 @@ session/
 # Upload directories (if they contain user-generated content)
 uploads/
 
-# Database files
-*.sql
-*.sqlite
-*.db
 
-# Configuration files with sensitive data
-app/Config/Database.php
-app/Config/App.php
+
+
 
 # Backup files
 *.bak
 *.backup
 *.old
 
-# Node modules (if you have any frontend build tools)
-node_modules/
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+
 
 # Build output
 dist/
@@ -66,22 +49,10 @@ build/
 tests/coverage/
 .phpunit.result.cache
 
-# Environment-specific files
-.env.local
-.env.development
-.env.test
-.env.production
+
 
 # SSL certificates
 *.pem
 *.key
 *.crt
 
-# Custom uploads and generated content
-public/uploads/
-public/data-tables/
-public/adminassets/uploads/
-
-# Backup and temporary files
-*.zip~
-*.tar.gz~
