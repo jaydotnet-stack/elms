@@ -1,0 +1,1 @@
+<button class="scrollToTop d-md-flex d-center" aria-label="scroll Bar Button"><i class="mat-icon fas fa-angle-double-up"></i></button>
