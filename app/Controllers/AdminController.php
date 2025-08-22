@@ -52,7 +52,17 @@ class AdminController extends BaseController
             $this->data['accountCat'] = 'Lecturer'; 
             $this->data['activationstatus'] = '';
             return view('pages/signin', $this->data);            
-        }        
+        }
+
+		public function quest()
+    {
+        $this->data['pageTitle'] = 'admin/question';
+            $this->data['accountCat'] = 'Lecturer'; 
+            $this->data['activationstatus'] = '';
+            return view('pages/admin/question', $this->data);
+
+        
+    }
 
     }  
 
