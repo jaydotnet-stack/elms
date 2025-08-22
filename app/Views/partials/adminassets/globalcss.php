@@ -15,8 +15,11 @@
 <link rel="stylesheet" href="<?= base_url(); ?>adminassets/css/icons.css" />
 <!-- App CSS -->
 <link rel="stylesheet" href="<?= base_url(); ?>adminassets/css/app.css" />
-
 <link rel="stylesheet" href="<?= base_url(); ?>adminassets/css/dark-sidebar.css" />
 <link rel="stylesheet" href="<?= base_url(); ?>adminassets/css/dark-theme.css" />
+<!--plugins-->
+<!--<link href="<?= base_url(); ?>adminassets/plugins/simplebar/css/simplebar.css" rel="stylesheet" /> -->
+<link href="<?= base_url(); ?>adminassets/plugins/perfect-scrollbar/css/perfect-scrollbar.css" rel="stylesheet" />
+<link href="<?= base_url(); ?>adminassets/plugins/metismenu/css/metisMenu.min.css" rel="stylesheet" /> 
 
 <script src="<?= base_url(); ?>adminassets/js/jquery.min.js"></script>

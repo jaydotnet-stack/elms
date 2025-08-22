@@ -13,7 +13,8 @@
                         </p> -->
                     </div>
                     <form class="writere-v1" id='formSignUp'>
-                        <?= csrf_field() ?>	                        
+                        <?= csrf_field() ?>	  
+                        
                         <div class="row g-6">
                             <div class="col-lg-6">
                                 <div class="form-cmn">

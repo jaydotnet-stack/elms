@@ -2,6 +2,8 @@
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
 <script src="<?= base_url(); ?>adminassets/js/popper.min.js"></script>
 <script src="<?= base_url(); ?>adminassets/js/bootstrap.min.js"></script>
+<script src="<?= base_url(); ?>adminassets/js/bs-custom-file-input.min.js"></script>
+<script src="<?= base_url(); ?>adminassets/js/jquery.min.js"></script>
 
 <!--plugins-->
 <script src="<?= base_url(); ?>adminassets/plugins/simplebar/js/simplebar.min.js"></script>

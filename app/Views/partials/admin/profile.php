@@ -42,7 +42,7 @@
 											</div>
 											<div class="ml-md-4 flex-grow-1">
 												<div class="d-flex align-items-center mb-1">
-													<h4 class="mb-0">Michle Clark</h4>
+													<h4 class="mb-0">Johnson Jaytech</h4>
 													<!-- <p class="mb-0 ml-auto">$44/hr</p> -->
 												</div>
 												<!-- <p class="mb-0 text-muted">Sr. Web Developer</p>
@@ -103,11 +103,11 @@
 															<div class="form-row">
 																<div class="form-group col-md-6">
 																	<label>First Name</label>
-																	<input type="text" value="Svetlana" class="form-control">
+																	<input type="text" value="Jaytech" class="form-control">
 																</div>
 																<div class="form-group col-md-6">
 																	<label>Last Name</label>
-																	<input type="text" value="Anyukova" class="form-control">
+																	<input type="text" value="Johnson" class="form-control">
 																</div>
 															</div>
 															<div class="form-group">
@@ -116,19 +116,19 @@
 															</div>
 															<div class="form-group">
 																<label>Email</label>
-																<input type="text" value="svetlana1997@example.com" class="form-control">
+																<input type="text" value="jaytech1997@gmail.com" class="form-control">
 															</div>
 															<div class="form-group">
 																<label>Phone</label>
-																<input type="text" value="99-10-XXX-XXX" class="form-control">
+																<input type="text" value="+23481780541511" class="form-control">
 															</div>
 															<div class="form-group">
 																<label>Address</label>
-																<input type="text" value="116-B, Cutela Colony, Sydney, Australia" class="form-control">
+																<input type="text" value="" class="form-control">
 															</div>
 															<div class="form-group">
-																<label>Nation</label>
-																<input type="text" value="Australia" class="form-control">
+																<label>State/Nation</label>
+																<input type="text" value="Lagos,Nigeria" class="form-control">
 															</div>
 														</div>
 														<div class="col-12 col-lg-7">
@@ -231,13 +231,9 @@
 																	<input type="text" class="form-control" value="https://www.facebook.com/anyukova">
 																</div>
 																<div class="form-group col-md-6">
-																	<label>Dribbble</label>
+																	<label>Instagram</label>
 																	<input type="text" class="form-control" value="https://dribbble.com/anyukova/">
 																</div>
-															</div>
-															<div class="form-group">
-																<label>Slogan</label>
-																<input type="text" class="form-control" value="Land Acquisition Specialist">
 															</div>
 															<div class="form-group">
 																<label>Payment Method</label>
